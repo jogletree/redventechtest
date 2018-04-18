@@ -1,7 +1,7 @@
 # redventechtest
 Red Ventures Technical Test 
 ## How to Execute my Code
-Save config file under a folder and the test1.jas file under a subfolder called test.
+unzip the red zip file and store on computer c drive.
 In command prompt use npm test to run application.
 
 ## My Approach
